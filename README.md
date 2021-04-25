@@ -1,2 +1,2 @@
 # RopeSkippingGame
-A game made by Unity3D. Runs on Android. Modeled in blender2.8.
+A game made by Unity3D. Modeled in blender2.8.Runs on Android. 
